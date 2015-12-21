@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Me Chef</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_title">Toggle</string>
+    <string name="menu_show_as_list">Show as list</string>
+    <string name="menu_show_as_grid">Show as grid</string>
+    <string name="my_activity">MY ACTIVITIES</string>
+</resources>
